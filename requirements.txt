@@ -2,3 +2,4 @@ mobly==1.12.4
 portpicker==1.6.0
 psutil==6.1.0
 PyYAML==6.0.2
+snippet-uiautomator==1.1.2
